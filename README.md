@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **ankurb75@gmail.com**
 
+I am a Computer Science and Statistics Junior, studying at University of British Columbia with expected graduation of 2025. I have a knack for making new things. Love to work on Personal projects, thinking of startup ideas, and going to Hackathons. If you wanna collaborate, or just have a question, hmu.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankurb75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankurb75" height="30" width="40" /></a>
