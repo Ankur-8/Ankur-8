@@ -9,7 +9,7 @@
 <p>
   <a href="https://ankur-8.github.io"><img src="https://img.shields.io/badge/Website-ankur--8.github.io-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/ankurb75"><img src="https://img.shields.io/badge/LinkedIn-ankurb75-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ankurb75@gmail.com"><img src="https://img.shields.io/badge/Email-ankurb75%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ankurbh08@gmail.com"><img src="https://img.shields.io/badge/Email-ankurbh08%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/ankurbhardwaj_8"><img src="https://img.shields.io/badge/Instagram-ankurbhardwaj__8-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
@@ -49,8 +49,6 @@
 | **UBC Lens** | Helps UBC students choose courses by running BERT sentiment analysis over 5,000+ Canvas discussion threads, with a local Llama 3 chatbot for privacy-safe insights | Vue.js · Python · BERT · Ollama |
 | **Valorant Tracker** | Stats tracker built on a BCNF-normalized relational schema, with an Express API that runs complex SQL queries | Oracle SQL · Express.js · JavaScript |
 | **Campus Capture** | Ingests and queries large campus datasets across multiple file formats through a REST API | TypeScript · Express.js |
-
-**Public repos:** [Heart Disease Predictor](https://github.com/Ankur-8/HeartDiseasePredictor) · [UFC Predictor](https://github.com/Ankur-8/UFC-Predictor) · [Speech Recognition System](https://github.com/Ankur-8/SpeechRecognitionSystem) · [Sudoku Solver](https://github.com/Ankur-8/SudokuSolver) ([web](https://github.com/Ankur-8/SudokuSolverWeb)) · [Fitness Tracker](https://github.com/Ankur-8/FitnessTrackerApp)
 
 ## Contribution activity
 
