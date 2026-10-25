@@ -7,10 +7,8 @@
 </a>
 
 <p>
-  <a href="https://ankur-8.github.io"><img src="https://img.shields.io/badge/Website-ankur--8.github.io-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/ankurb75"><img src="https://img.shields.io/badge/LinkedIn-ankurb75-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ankurbh08@gmail.com"><img src="https://img.shields.io/badge/Email-ankurbh08%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/ankurbhardwaj_8"><img src="https://img.shields.io/badge/Instagram-ankurbhardwaj__8-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 </div>
