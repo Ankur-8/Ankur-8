@@ -1,22 +1,61 @@
-<h1 align="center">Hi 👋, I'm Ankur Bhardwaj</h1>
-<h3 align="center">A passionate software developer based in Vancouver</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **MERN stack**
+# Hi, I'm Ankur Bhardwaj 👋
 
-- 🔭 I’m interested in **Data Analytics and ML**
+<a href="https://github.com/Ankur-8">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=560&lines=Software+Engineer+%40+NouxAI;Building+agentic+AI+for+healthcare;CS+%2B+Statistics+%40+UBC+(2026)" alt="Software Engineer @ NouxAI · Building agentic AI for healthcare · CS + Statistics @ UBC" />
+</a>
 
-- 📫 How to reach me **ankurb75@gmail.com**
-
-I am a Senior at University of British Columbia majoring in Computer Science and Statistics with expected graduation of 2026. I have a knack for making new things. Love to work on Personal projects, thinking of startup ideas, and going to Hackathons. If you wanna collaborate, or just have a question, hmu.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankurb75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankurb75" height="30" width="40" /></a>
-<a href="https://instagram.com/ankurbhardwaj_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankurbhardwaj_8" height="30" width="40" /></a>
+<p>
+  <a href="https://ankur-8.github.io"><img src="https://img.shields.io/badge/Website-ankur--8.github.io-2F81F7?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://linkedin.com/in/ankurb75"><img src="https://img.shields.io/badge/LinkedIn-ankurb75-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ankurb75@gmail.com"><img src="https://img.shields.io/badge/Email-ankurb75%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/ankurbhardwaj_8"><img src="https://img.shields.io/badge/Instagram-ankurbhardwaj__8-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
+## About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankur-8&show_icons=true&locale=en" alt="ankur-8" /></p>
+- 🧑‍💻 **Software Engineer at [NouxAI](https://nouxai.com)** (remote, Melbourne), building healthcare AI:
+  - **NouxVoice**: multilingual agentic voice agents running on real-time SIP telephony
+  - **NouxMe**: a personal health record app for iOS and Android
+- 🎓 **BSc in Computer Science & Statistics** from the University of British Columbia (2026)
+- 📊 Previously a **Data Analyst at UBC Campus & Community Planning**, where I built ETL pipelines and Tableau dashboards for senior management
+- 🔭 Interested in **LLM agents, RAG, ML and distributed systems**
+- ☁️ Microsoft certified: **AZ-900** (Azure Fundamentals) and **DP-900** (Azure Data Fundamentals)
+- 💬 I love personal projects, startup ideas and hackathons. If you want to collaborate or just have a question, hmu!
+
+## Tech stack
+
+<p>
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,go,r,html,css&perline=9" alt="Python, TypeScript, JavaScript, Java, C++, Go, R, HTML, CSS" />
+</p>
+<p>
+  <b>Frameworks &amp; data</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,vue,nodejs,express,fastapi,flask,sklearn,mongodb,mysql&perline=9" alt="React, Vue, Node.js, Express, FastAPI, Flask, scikit-learn, MongoDB, MySQL" />
+</p>
+<p>
+  <b>Tools &amp; cloud</b><br/>
+  <img src="https://skillicons.dev/icons?i=azure,git,github,linux,vscode&perline=9" alt="Azure, Git, GitHub, Linux, VS Code" />
+</p>
+
+## Recent projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **FastRAG** | Full-stack retrieval-augmented generation app: upload PDFs and chat with them, with context-aware answers from Gemini | FastAPI · Streamlit · LangChain · ChromaDB |
+| **UBC Lens** | Helps UBC students choose courses by running BERT sentiment analysis over 5,000+ Canvas discussion threads, with a local Llama 3 chatbot for privacy-safe insights | Vue.js · Python · BERT · Ollama |
+| **Valorant Tracker** | Stats tracker built on a BCNF-normalized relational schema, with an Express API that runs complex SQL queries | Oracle SQL · Express.js · JavaScript |
+| **Campus Capture** | Ingests and queries large campus datasets across multiple file formats through a REST API | TypeScript · Express.js |
+
+**Public repos:** [Heart Disease Predictor](https://github.com/Ankur-8/HeartDiseasePredictor) · [UFC Predictor](https://github.com/Ankur-8/UFC-Predictor) · [Speech Recognition System](https://github.com/Ankur-8/SpeechRecognitionSystem) · [Sudoku Solver](https://github.com/Ankur-8/SudokuSolver) ([web](https://github.com/Ankur-8/SudokuSolverWeb)) · [Fitness Tracker](https://github.com/Ankur-8/FitnessTrackerApp)
+
+## Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankur-8/Ankur-8/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ankur-8/Ankur-8/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Ankur-8/Ankur-8/output/github-contribution-grid-snake.svg" />
+</picture>
